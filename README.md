@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/barrypt/barrypt/output/github-contribution-grid-snake-dark.svg)
 Hello, I'm [pt qu], A Full-stack development:
 
 - 👨‍💼 I currently work in shanghai,China.
